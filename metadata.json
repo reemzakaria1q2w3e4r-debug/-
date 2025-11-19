@@ -1,0 +1,8 @@
+{
+  "name": "Lolo & Loly's World Adventures",
+  "description": "An interactive web app for Lolo & Loly to transform their photos into worldwide adventures using AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
